@@ -24,3 +24,4 @@ gr.Interface(
     title="📰 Fake News Detector",
     description="Enter a news article to check if it's REAL or FAKE using a trained machine learning model."
 ).launch()
+
